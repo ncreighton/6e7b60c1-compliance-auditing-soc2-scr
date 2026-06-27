@@ -1,2 +1,47 @@
-# 6e7b60c1-compliance-auditing-soc2-scr
-Capture, annotate, and share Compliance Auditing &amp; SOC2 data with team collaboration built in. Visual communication without switching apps.
+# Compliance Auditing & SOC2 Screenshot and Annotation Tool Chrome Extension
+
+> Extension for Compliance Audit
+
+What if have the information you need right in your browser took minutes instead of hours?
+
+Under 1MB. Zero performance impact on browser speed. Privacy-first: all processing stays local, no data sent to third-party servers.
+
+## What's Included
+
+- Compliance Auditing & Soc2 Screenshot And Annotation Tool — fully configured and ready to use
+-...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$34.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/9B67sLfXxgaU3lmbzScZK2e)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
